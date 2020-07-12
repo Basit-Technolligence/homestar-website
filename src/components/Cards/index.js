@@ -12,7 +12,7 @@ const Cards=(props)=>{
         <div data-aos='fade-down' className='cardMain  mx-auto'>
             <div className='cardInner'>
            {props.children}
-           <p className='cardTitle'>{props.title}</p>
+           <p className='cardTitle mt-3'>{props.title}</p>
            <hr/>
            <p className='cardDetail'>{props.detail}</p>
            </div>
