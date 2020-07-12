@@ -6,7 +6,7 @@ const About = ()=>{
         <div className='container-fluid'>
             <div className='row'>
                 <div className='col-md-8 mx-auto'>
-                    asd asd
+                    asd asda
                 </div>
             </div>
         </div>
