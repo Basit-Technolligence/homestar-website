@@ -8,8 +8,10 @@ const Footer=()=>{
     return(
         <div className='mainFooter container-fluid'>
       
-            <div className='topMainFooter row justify-content-center'>
-            <div className='firstDiv col-md-4 col-sm-12'>
+            <div className='topMainFooter row '>
+                <div className='col-md-10 mx-auto'>
+                    <div className='row'>
+            <div className='firstDiv col-md-4 col-sm-12 '>
                 <div className='topHeading'>LawExpert</div>
                 <p>If you or your business is facing a legal challenge that calls for sound advice and skilled representation, contact us today to arrange a free consultation with an attorney.</p>
                 <div className='hoverEffect'><NavLink className='hoverEffect navlink' to="/contact">Free Consultation <FaArrowAltCircleRight size='20px'/></NavLink></div>
@@ -33,10 +35,12 @@ const Footer=()=>{
                 </ul>
             </div>
             </div>
+            </div>
+                </div>
             <hr className='footerHr'/>
             
             <div className='bottomMainFooter row'>
-                <div className='col-md-10 col-sm-12 mx-auto'>
+                <div className='col-md-8 col-sm-12 mx-auto'>
                 <div className='bottomInnerDiv'>
                 <p>Copyright ©2020 All rights reserved</p>
                 <SocialIcons />

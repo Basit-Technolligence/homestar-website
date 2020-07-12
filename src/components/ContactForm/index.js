@@ -41,7 +41,7 @@ const ContactForm=()=>{
         </div>
         
        <div className='btn-div'>
-        <button type="submit" className="btn btn-dark ">Sign in</button>
+        <button type="submit" className="btn btn-dark ">Submit</button>
         </div>
       </form>
                         </div>
