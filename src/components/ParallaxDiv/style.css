@@ -1,0 +1,14 @@
+.bigText{
+    font-size: 60px;
+}
+.smallText{
+    letter-spacing: 1.2px;
+    font-size: 19px;
+}
+
+.textContainer{
+    left:10%;
+    top:5%;
+    right:40%;
+    position: absolute;
+}

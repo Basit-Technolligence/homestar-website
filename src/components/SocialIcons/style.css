@@ -1,0 +1,24 @@
+.socialIcons ul{
+    display: flex;
+    list-style: none;
+}
+.socialIcons{
+width: fit-content;
+}
+.socialIcons ul li{
+    border:1px solid #b4b6b9;
+    margin-left: 5px;
+    width: 30px;
+    border-radius: 50%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.socialIcons ul li:hover{
+    background-color: #000;
+    transition: all 0.3s linear;
+    color: white;
+    cursor: pointer;
+}

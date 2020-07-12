@@ -1,0 +1,20 @@
+.title{
+    text-align: center;
+
+}
+.main{
+    padding: 5% 0;
+    background-color: white;
+}
+.h1{
+    font-size: 18px;
+    letter-spacing: 2px;
+    
+}
+.h2{
+    font-size: 35px;
+    letter-spacing: 2px;
+}
+.bold{
+    font-weight: 600;
+}

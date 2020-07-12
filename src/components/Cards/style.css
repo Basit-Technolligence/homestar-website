@@ -1,0 +1,29 @@
+.cardMain{
+    width:75%;
+    text-align: center;
+ 
+    
+}
+.cardInner{
+    padding: 60px 50px;
+}
+.cardDetail{
+    color: grey;
+}
+.cardTitle{
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+hr{
+    width:50px;
+}
+.cardMain:hover{
+    box-shadow: 0 0 10px 0px grey;
+    transition: all 0.7s ease;
+    
+}
+.cardMain:hover hr{
+    width: 150px;
+    transition: all 0.5s ease;
+}

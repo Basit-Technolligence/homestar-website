@@ -1,0 +1,18 @@
+.navbar{
+    text-align: center;
+    border-top: 1px solid grey;
+}
+.navbar a{
+    margin: 0 30px;
+    text-decoration: none;
+    color: #565673;
+    font-size: 18px;
+    letter-spacing: 1.2px;
+}
+.navbar a:hover{
+    color: #5f9ea0;
+}
+.menu_active{
+    border-bottom: 1px solid black;
+}
+
