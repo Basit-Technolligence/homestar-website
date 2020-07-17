@@ -15,7 +15,7 @@ import {
 
 const Home = () => {
   return (
-    <div>
+    <>
       <ParallaxDiv />
       <MarketPlaces h1="MARKET PLACES" h2="Sell">
         <Cards
@@ -58,7 +58,7 @@ const Home = () => {
           <FaMosque size="40px" />
         </Cards>
       </MarketPlaces>
-    </div>
+    </>
   );
 };
 

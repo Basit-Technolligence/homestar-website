@@ -17,7 +17,7 @@ const Header = () => {
                   fontSize: "20px",
                 }}
               >
-                Homestar
+                Logo will here
                 {/* <img src={require('../../images/logo.png')} style={{height:'80px',width:'100px'}} /> */}
               </div>
               <div className="mt-3">
