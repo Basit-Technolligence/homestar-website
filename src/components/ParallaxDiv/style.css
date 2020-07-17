@@ -1,14 +1,14 @@
-.bigText{
-    font-size: 60px;
+.bigText {
+  font-size: 50px;
 }
-.smallText{
-    letter-spacing: 1.2px;
-    font-size: 19px;
+.smallText {
+  letter-spacing: 1.2px;
+  font-size: 19px;
 }
 
-.textContainer{
-    left:10%;
-    top:5%;
-    right:40%;
-    position: absolute;
+.textContainer {
+  left: 7%;
+  top: 15%;
+  right: 42%;
+  position: absolute;
 }

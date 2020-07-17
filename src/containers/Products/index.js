@@ -1,12 +1,8 @@
-import React from 'react'
-import './style.css'
+import React from "react";
+import "./style.css";
 
-const Products = ()=>{
-    return(
-        <div>
-                Products
-        </div>
-    )
-}
+const Products = () => {
+  return <div className="text-center m-5">Comming Soon</div>;
+};
 
-export default Products
+export default Products;
